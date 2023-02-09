@@ -27,8 +27,8 @@
 * [constraints](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-4-Learning/index.html)
 <code align=center><img src="constraints.png" title="constraints" alt="constraints" /></code>
 
-* [select data table](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-5-Learning/index.html)
-* []()
+* [select table data / select table column data](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-5-Learning/index.html)
+* [select columnName rename](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-6-Learning/index.html)
 * []()
 * []()
 * []()
