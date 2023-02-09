@@ -9,7 +9,7 @@
 
 ## Mysql commands
 
-* [Table create database](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-1-Learning/index.html)
+* [D atabase table create ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-1-Learning/index.html)
 * []()
 * []()
 * []()
