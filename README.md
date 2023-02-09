@@ -29,7 +29,7 @@
 
 * [select table data / select table column data](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-5-Learning/index.html)
 * [select columnName rename](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-6-Learning/index.html)
-* []()
+* [select table data condition base](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-7-Learning/index.html)
 * []()
 * []()
 * []()
