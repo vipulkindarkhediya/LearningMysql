@@ -7,7 +7,7 @@
 * This repository clone
 ### `https://github.com/vckindarkhediya/LearningMysql.git`
 
-* Mysql commands
+# Mysql commands
 
 * []()
 * []()
