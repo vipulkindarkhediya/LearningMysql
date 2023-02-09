@@ -9,15 +9,15 @@
 
 ## Mysql commands
 
-* String datatypes in sql
+** String datatypes in sql **
 <code align=center><img src="string_datatypes.png" title="string datatypes" alt="string" /></code>
 
 
-* Numeric datatypes in sql
+** Numeric datatypes in sql **
 <code align=center><img src="numeric_datatypes.png" title="numeric datatypes" alt="numeric" /></code>
 
 
-* Date and Time datatypes in sql
+** Date and Time datatypes in sql **
 <code align=center><img src="date_and_time_datatypes.png" title="date_and_time datatypes" alt="date_and_time" /></code>
 
 
