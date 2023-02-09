@@ -10,7 +10,9 @@
 
      <!-- Mysql Database jquery -->
      <strong>Database table create</strong>
+
      <h3>This jquery run</h3>
+     
      create database learningmysql;
 </body>
 </html>
