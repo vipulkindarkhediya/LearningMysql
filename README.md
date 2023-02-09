@@ -10,7 +10,7 @@
 ## Mysql commands
 
 
-<code align=center><img src="string_datatypes.png" title="string" alt="string" width="200" height="100"/></code>
+<code align=center><img src="string_datatypes.png" title="string" alt="string" /></code>
 
 
 * [Database create ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-1-Learning/index.html)
