@@ -9,6 +9,10 @@
 
 ## Mysql commands
 
+
+<code align=center><img src="string_datatypes.png" title="string" alt="string" width="200" height="100"/></code>
+
+
 * [Database create ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-1-Learning/index.html)
 * [Create table ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-2-Learning/index.html)
 * []()
