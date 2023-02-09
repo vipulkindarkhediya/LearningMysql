@@ -25,6 +25,7 @@
 * [Create table ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-2-Learning/index.html)
 * [insert data table](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-3-Learning/index.html)
 * [constraints](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-4-Learning/index.html)
+<code align=center><img src="constraints.png" title="constraints" alt="constraints" /></code>
 * []()
 * []()
 * []()
