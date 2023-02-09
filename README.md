@@ -21,8 +21,8 @@
 <code align=center><img src="date_and_time_datatypes.png" title="date_and_time datatypes" alt="date_and_time" /></code>
 
 
-* [Database create ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-1-Learning/index.html)
-* [Create table ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-2-Learning/index.html)
+* [create database ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-1-Learning/index.html)
+* [create table ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-2-Learning/index.html)
 * [insert data table](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-3-Learning/index.html)
 * [constraints](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-4-Learning/index.html)
 <code align=center><img src="constraints.png" title="constraints" alt="constraints" /></code>
