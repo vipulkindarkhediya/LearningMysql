@@ -23,7 +23,7 @@
 
 * [Database create ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-1-Learning/index.html)
 * [Create table ](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-2-Learning/index.html)
-* []()
+* [insert data table](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-3-Learning/index.html)
 * []()
 * []()
 * []()
