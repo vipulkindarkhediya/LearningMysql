@@ -35,3 +35,6 @@
 * [select table between operator](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-10-Learning/index.html)
 * [select table like operator with wildcards](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-11-Learning/index.html)
 <code align=center><img src="like_operator_with_wildcards.png" title="like_operator_with_wildcards" alt="like_operator_with_wildcards" /></code>
+
+* [regular expression patterns](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-12-Learning/index.html)
+<code align=center><img src="sql_regular_expression_patterns.png" title="sql_regular_expression_patterns" alt="sql_regular_expression_patterns" /></code>
