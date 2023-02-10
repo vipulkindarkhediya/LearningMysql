@@ -2,7 +2,7 @@
 
 <!--Syntax  -->
 
-<!-- sql like operator -->
+<!-- sql like operator with wildcards-->
 
 <!-- select * from tableName where columnName like condition-->
 
@@ -32,3 +32,9 @@ select * from personal where city like "r%t";
 <!-- not start letter v view columns  -->
 
 select * from personal where city not like "v%";
+
+
+<!-- columnName %pattern%  -->
+
+select * from personal where city like "%a%";
+
