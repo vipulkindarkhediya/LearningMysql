@@ -47,3 +47,6 @@
 
 
 * [select with limit & offset](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-16-Learning/index.html)
+
+
+* [update table data](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-17-Learning/index.html)
