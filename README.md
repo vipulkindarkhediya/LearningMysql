@@ -42,3 +42,5 @@
 * [select table orderby & distinct](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-13-Learning/index.html)
 
 * [select count](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-14-Learning/index.html)
+
+* [select is null & is not null](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-15-Learning/index.html)
