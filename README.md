@@ -33,5 +33,4 @@
 * [select table and, or, not condition](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-8-Learning/index.html)
 * [select table in operator](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-9-Learning/index.html)
 * [select table between operator](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-10-Learning/index.html)
-* [select table like operator](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-11-Learning/index.html)
-* [select table wildcards](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-12-Learning/index.html)
+* [select table like operator with wildcards](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-11-Learning/index.html)
