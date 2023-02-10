@@ -39,4 +39,4 @@
 * [regular expression patterns](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-12-Learning/index.html)
 <code align=center><img src="sql_regular_expression_patterns.png" title="sql_regular_expression_patterns" alt="sql_regular_expression_patterns" /></code>
 
-* [select table orderby & distinct](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-12-Learning/index.html)
+* [select table orderby & distinct](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-13-Learning/index.html)
