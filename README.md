@@ -7,6 +7,7 @@
 * This repository clone
 ### `https://github.com/vckindarkhediya/LearningMysql.git`
 
+
 ## Mysql commands
 
 ### String datatypes in sql 
