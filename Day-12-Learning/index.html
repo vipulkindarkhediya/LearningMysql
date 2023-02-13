@@ -1,0 +1,40 @@
+<!-- Mysql Database jquery -->
+
+     <!--Syntax  -->
+
+<!-- sql select with regular expression -->
+
+<!-- select * from tableName where columnName regexp condition-->
+
+     <!-- This jquery run  -->
+
+     
+     <!-- sql regexp beggining of string ^ -->
+
+     select * from personal where city regexp '^ke';
+
+
+     <!-- sql regexp end of string $ -->
+
+     select * from personal where city regexp 'od$';
+
+
+     <!-- sql regexp where column regexp ['string'] column in allrow match show list -->
+
+     select * from personal where city regexp '[od]';
+
+
+     <!-- sql regexp begins with Any character listed -->
+
+     select * from personal where city regexp '^[rj]';
+
+
+     <!-- sql regexp match with in the range [a-z] -->
+
+     select * from personal where city regexp '[a]';
+
+
+     <!-- sql regexp match any of ther patterns -->
+
+     select * from personal where city regexp 'jun|raj|kes';
+

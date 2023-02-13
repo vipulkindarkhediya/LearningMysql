@@ -1,0 +1,40 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- sql like operator with wildcards-->
+
+<!-- select * from tableName where columnName like condition-->
+
+<!-- This jquery run  -->
+
+
+<!-- start letter r view columns  -->
+
+select * from personal where city like "r%";
+
+
+<!-- end letter d view columns  -->
+
+select * from personal where city like "%d";
+
+
+<!-- second letter a view columns  -->
+
+select * from personal where city like "_a%";
+
+
+<!-- start letter and end letter r%t view columns  -->
+
+select * from personal where city like "r%t";
+
+
+<!-- not start letter v view columns  -->
+
+select * from personal where city not like "v%";
+
+
+<!-- columnName %pattern%  -->
+
+select * from personal where city like "%a%";
+

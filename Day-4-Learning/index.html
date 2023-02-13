@@ -1,0 +1,39 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- Constraints  -->
+
+<!--insert into tableName(
+          column1 not null unique,
+          column2 not null,
+          column3 not null,
+          column4 not null,
+          column5 not null
+
+          ) values (
+               value1,
+               value2,
+               value3,
+               value4,
+               value5            
+          
+          )  -->
+
+<!-- This jquery run  -->
+
+insert into personal(
+     id int not null unique,
+     name varchar(50) not null,
+     age int(10) not null check<age>=18>,
+     gender varchar(50) not null,
+     phone varchar(10) not null unique,
+     city text(500) default"Junagadh"
+) values (
+     1,
+     "Vipul",
+     18,
+     "male",
+     9090909090,
+     "rajkot"
+);
