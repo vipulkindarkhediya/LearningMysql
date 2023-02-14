@@ -1,0 +1,62 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- sql primary key -->
+
+<!--  -->
+
+
+<!-- sql foreign key-->
+
+<!--  -->
+
+
+<!-- This jquery run  -->
+
+==> primary key set table in onecolumn not store null values;
+
+<!-- sql primary key set new table -->
+
+<!-- set primary key this column name  -->
+
+create table tableName(
+columnName1,
+columnName2,
+columnName3,
+columnName4,
+primary key(ColumnName)
+);
+
+primary key(ColumnName)
+
+
+
+<!-- sql primary key set alrealy table -->
+
+<!-- set primary key this column name  -->
+
+alter table tableName
+add primary key(columnName);
+
+
+
+<!-- sql foreign key set new table -->
+
+     ==> A foreign key is a used to link two tables together.
+     ==> A foreign key in one table used to point primary key in another table.
+
+     create table tableName(
+     columnName1,
+     columnName2,
+     columnName3,
+     columnName4,
+<!-- syntax  -->
+     foreign key(This table columnName) references other table link tableName(othertableprimarykeysetColumnName)
+     foreign key (ColumnName) references otherTableName(primary key columnName)
+     );
+
+<!-- sql foreign key set alter table  -->
+
+     alter table tableName
+     add foreign key(this table columnName) references other table name(other table primary key set is columnName)
