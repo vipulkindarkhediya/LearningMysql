@@ -54,3 +54,5 @@
 * [sql commit & rollback](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-18-Learning/index.html)
 
 * [sql delete](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-19-Learning/index.html)
+
+* [sql primary key and foreign key](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-20-Learning/index.html)
