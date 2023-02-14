@@ -50,3 +50,6 @@
 
 
 * [update table data](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-17-Learning/index.html)
+
+
+* [sql commit & rollback](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-18-Learning/index.html)
