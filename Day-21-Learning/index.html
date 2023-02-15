@@ -1,0 +1,23 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- sql two  inner join tables -->
+
+<!--  select firstTableName.firstTableColumnName, secondTableName.secondTableColumnName 
+     from firstTableName 
+     inner join secondTableName 
+     on
+     firstTableName.columnName = secondTableName.id -->
+
+
+<!-- This jquery run  -->
+
+     <!-- sql two inner join tables -->
+
+     select p.id, p.name, c.city from personal as p inner join city as c on p.city = c.id;
+
+
+       <!-- sql three inner join tables -->
+
+       select p.id, p.name, ph.phone, c.city from ((personal as p inner join phone as ph on p.phone = ph.id)inner join city as c on p.city = c.id);
