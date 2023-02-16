@@ -62,3 +62,5 @@
 * [sql left join](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-22-Learning/index.html)
 
 * [sql right join](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-23-Learning/index.html)
+
+* [sql cross join](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-24-Learning/index.html)
