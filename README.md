@@ -58,3 +58,7 @@
 * [sql primary key and foreign key](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-20-Learning/index.html)
 
 * [sql inner join](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-21-Learning/index.html)
+
+* [sql left join](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-22-Learning/index.html)
+
+* [sql right join](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-23-Learning/index.html)
