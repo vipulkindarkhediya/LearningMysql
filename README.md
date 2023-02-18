@@ -67,4 +67,4 @@
 
 * [sql group by & having clause](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-26-Learning/index.html)
 
-* [sql SubQuery with Exists & Not Exists](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-27-Learning/index.html)
+* [sql Subquery or Nestedquery](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-27-Learning/index.html)
