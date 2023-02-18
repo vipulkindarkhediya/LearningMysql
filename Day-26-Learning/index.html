@@ -1,0 +1,27 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- sql  group by & clause-->
+
+<!-- sql group by -->
+
+<!-- select ColumnName..., ColumnName... from 1TableName join 2TableName on 1TableName.ColumnName = 2TableName.id group by ColumnName ; -->
+
+
+<!-- sql clause -->
+
+<!-- select ColumnName..., ColumnName... from 1TableName join 2TableName on 1TableName.ColumnName = 2TableName.id group by ColumnName havin count(p.city) > 1 ; -->
+
+
+<!-- This jquery run  -->
+
+     <!-- sql  group by-->
+
+     select c.city, count(p.city) from personal p inner join city c on p.city = c.id group by city;
+
+
+     <!-- sql  having-->
+
+     select c.city, count(p.city) from personal p inner join city c on p.city = c.id group by city having count(p.city) > 1;
+
