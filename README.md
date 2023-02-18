@@ -64,3 +64,5 @@
 * [sql cross join](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-24-Learning/index.html)
 
 * [sql join multiple tables](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-25-Learning/index.html)
+
+* [sql group by & having clause](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-26-Learning/index.html)
