@@ -23,12 +23,14 @@
 
      <!-- sql union-->
 
-     select name from personal where exists( select id from city where city = "rajkot");
+     select name from personal union select city from city ;
 
      <!-- ==> this column dublicate data not show -->
 
+     
+
      <!-- sql union all-->
 
-     select name from personal where not exists( select id from city where city = "rajkot");
+     select name from personal union all select city from city;
 
      <!-- ==> this column all data show  -->
