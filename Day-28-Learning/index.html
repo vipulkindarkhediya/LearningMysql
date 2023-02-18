@@ -1,0 +1,31 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- sql Exists & Not Exists-->
+
+<!-- sql exists  -->
+
+<!-- select columnName from 1TableName where exists
+     ( select ColumnName from 2TableName where condition); 
+-->
+
+
+<!-- sql not exists  -->
+
+<!-- select columnName from 1TableName where not exists
+     ( select ColumnName from 2TableName where condition); 
+-->
+
+
+
+<!-- This jquery run  -->
+
+<!-- sql exists-->
+
+     select name from personal where exists( select id from city where city = "rajkot");
+
+
+<!-- sql not exists-->
+
+     select name from personal where not exists( select id from city where city = "rajkot");
