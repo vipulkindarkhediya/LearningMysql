@@ -70,3 +70,5 @@
 * [sql subquery or nestedquery](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-27-Learning/index.html)
 
 * [sql exists & not exists](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-28-Learning/index.html)
+
+* [sql union & union all](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-29-Learning/index.html)
