@@ -1,0 +1,34 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- sql union & union all-->
+
+     <!-- sql union  -->
+
+          <!-- select columnName from 1TableName union
+               select ColumnName from 2TableName; 
+          -->
+
+
+     <!-- sql union all  -->
+
+          <!-- select columnName from 1TableName union all
+               select ColumnName from 2TableName; 
+          -->
+
+
+
+<!-- This jquery run  -->
+
+     <!-- sql union-->
+
+     select name from personal where exists( select id from city where city = "rajkot");
+
+     <!-- ==> this column dublicate data not show -->
+
+     <!-- sql union all-->
+
+     select name from personal where not exists( select id from city where city = "rajkot");
+
+     <!-- ==> this column all data show  -->
