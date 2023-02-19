@@ -72,3 +72,5 @@
 * [sql exists & not exists](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-28-Learning/index.html)
 
 * [sql union & union all](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-29-Learning/index.html)
+
+* [sql if and case statement](https://github.com/vckindarkhediya/LearningMysql/blob/mysql/Day-30-Learning/index.html)
