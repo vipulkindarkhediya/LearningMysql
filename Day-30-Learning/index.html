@@ -1,0 +1,52 @@
+<!-- Mysql Database jquery -->
+
+<!--Syntax  -->
+
+<!-- sql if & case statement -->
+
+     <!-- sql if  -->
+
+          <!-- select columnName, if(columnName condtition, "pass","fail") from TableName; 
+          -->
+
+
+     <!-- sql case  -->
+
+          <!-- select columnName,
+               case
+                    when  columnName condition and columnName condition then "message"
+                    
+                    when  columnName condition and columnName condition then "message"
+                    
+                    when  columnName condition and columnName condition then "message"
+
+                    else "Message"
+               end as "show columnName"
+               from TableName; 
+          -->
+
+
+
+<!-- This jquery run  -->
+
+     <!-- sql if -->
+
+          select id, name, age, if(age >= 20,1,0) as "result" from personal;
+
+     
+
+     
+
+     <!-- sql case-->
+
+     select columnName,
+     case
+          when  columnName condition and columnName condition then "message"
+          
+          when  columnName condition and columnName condition then "message"
+          
+          when  columnName condition and columnName condition then "message"
+          else "Message"
+     end as "show columnName"
+     from TableName; 
+    
